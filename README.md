@@ -1,7 +1,6 @@
 ## 使用方法
 自己先安装Curl
-- 检测命令 `bash <(curl -sSL "https://github.com/CoiaPrant/Netflix_Unlock_Information/raw/main/netflix.sh")`
-- 备用命令 `bash <(curl -sSL "https://www.zeroteam.top/files/netflix.sh")`
+- 检测命令 `bash <(curl -sSL "https://cdn.jsdelivr.net/gh/XmJwit/Netflix_Unlock_Information@latest/netflix.sh")`
 
 ## 特性
 - 支持双栈测试
